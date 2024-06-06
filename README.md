@@ -6,3 +6,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouca&langs_count=8&theme=omni&layout=donut-vertical" />
 </a>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jouca&theme=omni&date_format=%5BY%20%5DM%20j&fire=EB5454" alt="GitHub Streak" /></a>
