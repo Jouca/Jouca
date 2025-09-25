@@ -27,14 +27,14 @@
   </a>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jouca&show=prs_merged,prs_merged_percentage&show_icons=true&theme=omni" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-shrink: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jouca&show=prs_merged,prs_merged_percentage&show_icons=true&theme=omni" style="max-width: 100%; height: auto;" />
   </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://clarifygdps.com/github-readme-streak-stats/src/demo/preview.php?user=Jouca&theme=omni&border_radius=3.5&card_width=365&hide_longest_streak=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats" style="flex-shrink: 1;">
+    <img src="https://clarifygdps.com/github-readme-streak-stats/src/demo/preview.php?user=Jouca&theme=omni&border_radius=3.5&card_width=365&hide_longest_streak=true" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouca&langs_count=8&theme=omni&layout=donut-vertical" />
+  <a href="https://github.com/anuraghazra/convoychat" style="flex-shrink: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouca&langs_count=8&theme=omni&layout=donut-vertical" style="max-width: 100%; height: auto;" />
   </a>
 </div>
