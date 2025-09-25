@@ -1,4 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jouca&duration=4000&pause=2000&color=F718A4&center=true&vCenter=true&width=509&lines=Fullstack%2C+Mobile+%26+Game+Developer;Apprentice+at+LISSI;Master+degree+student+at+UPEC;%22It's+all+talk+until+the+code+runs.%22+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/Jouca"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/diego-roulle-b70869232/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/JoucaJouca"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/jouca-s-manor-922966061060616214" alt="Discord" title="Jouca's Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/gdutils"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+</p>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
