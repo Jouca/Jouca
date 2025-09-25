@@ -32,7 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Jouca&show=prs_merged,prs_merged_percentage&show_icons=true&theme=omni" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://clarifygdps.com/github-readme-streak-stats/src/demo/preview.php?user=Jouca&theme=dark&border_radius=3.5&card_width=365&ring=EB5EDB&sideLabels=EB00E7&sideNums=DF00EB&currStreakNum=EB8400&hide_longest_streak=true" alt="GitHub Streak" />
+    <img src="https://clarifygdps.com/github-readme-streak-stats/src/demo/preview.php?user=Jouca&theme=omni&border_radius=3.5&card_width=365&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouca&langs_count=8&theme=omni&layout=donut-vertical" />
