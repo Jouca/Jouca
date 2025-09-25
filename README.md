@@ -24,6 +24,7 @@
   <a href="https://github.com/search?q=user%3AJouca+language%3Apowershell"><img alt="PowerShell" src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AJouca+language%3Apython"><img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AJouca+language%3Aregex"><img alt="Regex" src="https://custom-icon-badges.demolab.com/badge/Regex-FF4154.svg?logo=regex&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AJouca+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AJouca+language%3Atypescript"><img alt="TypeScript" src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AJouca+language%3Ayaml"><img alt="YAML" src="https://custom-icon-badges.demolab.com/badge/YAML-CB171E.svg?logo=yaml&logoColor=white"></a>
   
