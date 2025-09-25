@@ -117,21 +117,32 @@
   <a href="#"><img alt="Wireshark" src="https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-shrink: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jouca&show=prs_merged,prs_merged_percentage&show_icons=true&theme=omni" style="max-width: 100%; height: auto;" />
-  </a>
-  <a href="https://git.io/streak-stats" style="flex-shrink: 1;">
-    <img src="https://clarifygdps.com/github-readme-streak-stats/src/demo/preview.php?user=Jouca&theme=omni&border_radius=3.5&card_width=365&hide_longest_streak=true" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
-  </a>
-</div>
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.0](https://github.com/Jouca/BadgesAPI/releases/tag/v1.3.0) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
-2. 🚀 Published release [v1.5.4](https://github.com/Jouca/GDUtils-Geode/releases/tag/v1.5.4) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-3. 💪 Opened PR [#10](undefined) in [SAE5-Transport/mobile_app](https://github.com/SAE5-Transport/mobile_app)
-4. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3243252076) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
-5. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3242823082) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
-<!--END_SECTION:activity-->
+  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-shrink: 1;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Jouca&show=prs_merged,prs_merged_percentage&show_icons=true&theme=omni" style="max-width: 100%; height: auto;" />
+    </a>
+    <a href="https://git.io/streak-stats" style="flex-shrink: 1;">
+      <img src="https://clarifygdps.com/github-readme-streak-stats/src/demo/preview.php?user=Jouca&theme=omni&border_radius=3.5&card_width=365&hide_longest_streak=true" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+    </a>
+  </div>
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jouca's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Jouca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+
+  <!--START_SECTION:activity-->
+  1. 🚀 Published release [v1.3.0](https://github.com/Jouca/BadgesAPI/releases/tag/v1.3.0) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
+  2. 🚀 Published release [v1.5.4](https://github.com/Jouca/GDUtils-Geode/releases/tag/v1.5.4) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+  3. 💪 Opened PR [#10](undefined) in [SAE5-Transport/mobile_app](https://github.com/SAE5-Transport/mobile_app)
+  4. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3243252076) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
+  5. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3242823082) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
+  <!--END_SECTION:activity-->
+</details>
