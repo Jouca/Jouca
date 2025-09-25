@@ -59,6 +59,7 @@
   <a href="#"><img alt="API" src="https://custom-icon-badges.demolab.com/badge/API-FF6C37.svg?logo=postman&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://custom-icon-badges.demolab.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="Discord.js" src="https://custom-icon-badges.demolab.com/badge/Discord.js-5865F2.svg?logo=discord&logoColor=white"></a>
+  <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
   <a href="#"><img alt="Express.js" src="https://custom-icon-badges.demolab.com/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
   <a href="#"><img alt="FastAPI" src="https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
   <a href="#"><img alt="FFmpeg" src="https://custom-icon-badges.demolab.com/badge/FFmpeg-007808.svg?logo=ffmpeg&logoColor=white"></a>
