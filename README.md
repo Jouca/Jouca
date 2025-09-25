@@ -124,7 +124,4 @@
   <a href="https://git.io/streak-stats" style="flex-shrink: 1;">
     <img src="https://clarifygdps.com/github-readme-streak-stats/src/demo/preview.php?user=Jouca&theme=omni&border_radius=3.5&card_width=365&hide_longest_streak=true" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat" style="flex-shrink: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouca&langs_count=8&theme=omni&layout=donut-vertical" style="max-width: 100%; height: auto;" />
-  </a>
 </div>
