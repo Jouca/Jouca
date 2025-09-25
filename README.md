@@ -125,3 +125,7 @@
     <img src="https://clarifygdps.com/github-readme-streak-stats/src/demo/preview.php?user=Jouca&theme=omni&border_radius=3.5&card_width=365&hide_longest_streak=true" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
   </a>
 </div>
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+
+<!--START_SECTION:activity-->
