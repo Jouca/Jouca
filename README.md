@@ -167,10 +167,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-  1. 🚀 Published release [v1.3.0](https://github.com/Jouca/BadgesAPI/releases/tag/v1.3.0) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
-  2. 🚀 Published release [v1.5.4](https://github.com/Jouca/GDUtils-Geode/releases/tag/v1.5.4) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-  3. 💪 Opened PR [#10](undefined) in [SAE5-Transport/mobile_app](https://github.com/SAE5-Transport/mobile_app)
-  4. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3243252076) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
-  5. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3242823082) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
+1. 🚀 Published release [v1.3.0](https://github.com/Jouca/BadgesAPI/releases/tag/v1.3.0) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
+2. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3243255883) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
+3. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3243252076) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
+4. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3242823082) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
+5. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3242758013) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
   <!--END_SECTION:activity-->
 </details>
