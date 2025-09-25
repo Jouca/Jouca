@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Techs
+### Techs
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-#### Frameworks / Libraries
+### Frameworks / Libraries
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-#### Tools
+### Tools
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
