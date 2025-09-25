@@ -71,6 +71,7 @@
   <a href="#"><img alt="Next.js" src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
   <a href="#"><img alt="npm" src="https://custom-icon-badges.demolab.com/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="OpenCV" src="https://custom-icon-badges.demolab.com/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="Pygame" src="https://custom-icon-badges.demolab.com/badge/Pygame-FFDF27.svg?logo=pygame&logoColor=black"></a>
