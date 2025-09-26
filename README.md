@@ -60,6 +60,131 @@
   }
 }
 
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+.fade-in {
+  animation: fadeIn 1s ease-out forwards;
+}
+
+.slide-in-left {
+  animation: slideInLeft 0.8s ease-out forwards;
+}
+
+.slide-in-right {
+  animation: slideInRight 0.8s ease-out forwards;
+}
+
+.bounce-in {
+  animation: bounceIn 1s ease-out forwards;
+}
+
+.pulse:hover {
+  animation: pulse 0.6s ease-in-out;
+}
+
+.delay-1 { animation-delay: 0.1s; }
+.delay-2 { animation-delay: 0.2s; }
+.delay-3 { animation-delay: 0.3s; }
+.delay-4 { animation-delay: 0.4s; }
+.delay-5 { animation-delay: 0.5s; }
+.delay-6 { animation-delay: 0.6s; }
+.delay-7 { animation-delay: 0.7s; }
+.delay-8 { animation-delay: 0.8s; }
+.delay-9 { animation-delay: 0.9s; }
+.delay-10 { animation-delay: 1.0s; }
+
+/* Initial state - hidden */
+[class*="fade-"], [class*="slide-"], [class*="bounce-"] {
+  opacity: 0;
+}
+
+/* Smooth transitions for interactive elements */
+img, a {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+</style>
+
+<p align="center" class="fade-in-up">
+<!-- CSS Animations -->
+<style>
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes bounceIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
 .fade-in-up {
   animation: fadeInUp 0.8s ease-out forwards;
 }
@@ -105,13 +230,19 @@
 <!-- Social icons section -->
 <p align="center" class="fade-in delay-2">
   <a href="https://www.youtube.com/c/Jouca" class="bounce-in delay-3"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+<p align="center" class="fade-in delay-2">
+  <a href="https://www.youtube.com/c/Jouca" class="bounce-in delay-3"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/diego-roulle-b70869232/" class="bounce-in delay-4"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   <a href="https://www.linkedin.com/in/diego-roulle-b70869232/" class="bounce-in delay-4"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/JoucaJouca" class="bounce-in delay-5"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/JoucaJouca" class="bounce-in delay-5"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/jouca-s-manor-922966061060616214" alt="Discord" title="Jouca's Discord Server" class="bounce-in delay-6"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/jouca-s-manor-922966061060616214" alt="Discord" title="Jouca's Discord Server" class="bounce-in delay-6"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/gdutils" class="bounce-in delay-7"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   <a href="https://ko-fi.com/gdutils" class="bounce-in delay-7"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
@@ -120,18 +251,25 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center" class="fade-in-up delay-8">
   <a href="https://github.com/Jouca?tab=repositories&sort=stargazers" class="slide-in-left delay-9">
+<p align="center" class="fade-in-up delay-8">
+  <a href="https://github.com/Jouca?tab=repositories&sort=stargazers" class="slide-in-left delay-9">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jouca?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers" class="fade-in delay-10">
+  <a href="https://github.com/DenverCoder1?tab=followers" class="fade-in delay-10">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jouca?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Jouca/Simple-View-Counter" class="slide-in-right delay-9">
   <a href="https://github.com/Jouca/Simple-View-Counter" class="slide-in-right delay-9">
     <img alt="views" title="GitHub profile views" src="https://clarifygdps.com/github_stats"/></a>
 </p>
 
 <details class="fade-in delay-1"> 
+<details class="fade-in delay-1"> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
   <h3 class="slide-in-left delay-2">👨‍💻 Programming and Markup Languages</h3>
+  <h3 class="slide-in-left delay-2">👨‍💻 Programming and Markup Languages</h3>
 
+  <p align="center" class="fade-in-up delay-3">
   <p align="center" class="fade-in-up delay-3">
     <a href="https://github.com/search?q=user%3AJouca+language%3Aassembly"><img alt="Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AJouca+language%3Abash"><img alt="Bash" src="https://custom-icon-badges.demolab.com/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -160,9 +298,9 @@
     
   </p>
 
-  <h3>🗄️ Databases, Internet of Things (IoT) and Cloud Hosting</h3>
+  <h3 class="slide-in-right delay-4">🗄️ Databases, Internet of Things (IoT) and Cloud Hosting</h3>
 
-  <p align="center">
+  <p align="center" class="fade-in-up delay-5">
     <a href="#"><img alt="Apache" src="https://custom-icon-badges.demolab.com/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a>
     <a href="#"><img alt="Cassandra" src="https://custom-icon-badges.demolab.com/badge/Cassandra-1287B1.svg?logo=apache-cassandra&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black"></a>
@@ -183,9 +321,9 @@
     <a href="#"><img alt="WebSocket" src="https://custom-icon-badges.demolab.com/badge/WebSocket-010101.svg?logo=websocket&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3 class="slide-in-left delay-6">🧰 Frameworks and Libraries</h3>
 
-  <p align="center">
+  <p align="center" class="fade-in-up delay-7">
     <a href="#"><img alt="Android" src="https://custom-icon-badges.demolab.com/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
     <a href="#"><img alt="API" src="https://custom-icon-badges.demolab.com/badge/API-FF6C37.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://custom-icon-badges.demolab.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -217,9 +355,9 @@
     <a href="#"><img alt="Vue.js" src="https://custom-icon-badges.demolab.com/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3 class="slide-in-right delay-8">💻 Software and Tools</h3>
 
-  <p align="center">
+  <p align="center" class="fade-in-up delay-9">
     <a href="#"><img alt="Android Studio" src="https://custom-icon-badges.demolab.com/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white"></a>
     <a href="#"><img alt="Cloudflare" src="https://custom-icon-badges.demolab.com/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"></a>
@@ -249,23 +387,23 @@
 </details>
 
 
-<details> 
+<details class="fade-in delay-10"> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
-  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-shrink: 1;">
+  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;" class="fade-in-up delay-1">
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-shrink: 1;" class="slide-in-left delay-2">
       <img src="https://github-readme-stats.vercel.app/api?username=Jouca&show=prs_merged,prs_merged_percentage&show_icons=true&theme=omni" style="max-width: 100%; height: auto;" />
     </a>
-    <a href="https://git.io/streak-stats" style="flex-shrink: 1;">
+    <a href="https://git.io/streak-stats" style="flex-shrink: 1;" class="slide-in-right delay-3">
       <img src="https://clarifygdps.com/github-readme-streak-stats/src/demo/preview.php?user=Jouca&theme=omni&border_radius=3.5&card_width=365&hide_longest_streak=true" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
     </a>
   </div>
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jouca's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Jouca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" class="fade-in delay-4"><img alt="Jouca's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Jouca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
+  <h3 class="slide-in-left delay-5">⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
