@@ -1,39 +1,138 @@
-<p align="center">
+<!-- CSS Animations -->
+<style>
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes bounceIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+.fade-in {
+  animation: fadeIn 1s ease-out forwards;
+}
+
+.slide-in-left {
+  animation: slideInLeft 0.8s ease-out forwards;
+}
+
+.slide-in-right {
+  animation: slideInRight 0.8s ease-out forwards;
+}
+
+.bounce-in {
+  animation: bounceIn 1s ease-out forwards;
+}
+
+.delay-1 { animation-delay: 0.1s; }
+.delay-2 { animation-delay: 0.2s; }
+.delay-3 { animation-delay: 0.3s; }
+.delay-4 { animation-delay: 0.4s; }
+.delay-5 { animation-delay: 0.5s; }
+.delay-6 { animation-delay: 0.6s; }
+.delay-7 { animation-delay: 0.7s; }
+.delay-8 { animation-delay: 0.8s; }
+.delay-9 { animation-delay: 0.9s; }
+.delay-10 { animation-delay: 1.0s; }
+
+/* Initial state - hidden */
+[class*="fade-"], [class*="slide-"], [class*="bounce-"] {
+  opacity: 0;
+}
+</style>
+
+<p align="center" class="fade-in-up">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jouca&duration=4000&pause=2000&color=F718A4&center=true&vCenter=true&width=509&lines=Fullstack%2C+Mobile+%26+Game+Developer;Apprentice+at+LISSI;Master+degree+student+at+UPEC;%22It's+all+talk+until+the+code+runs.%22+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/Jouca"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+<p align="center" class="fade-in delay-2">
+  <a href="https://www.youtube.com/c/Jouca" class="bounce-in delay-3"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/diego-roulle-b70869232/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/diego-roulle-b70869232/" class="bounce-in delay-4"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/JoucaJouca"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/JoucaJouca" class="bounce-in delay-5"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/jouca-s-manor-922966061060616214" alt="Discord" title="Jouca's Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/jouca-s-manor-922966061060616214" alt="Discord" title="Jouca's Discord Server" class="bounce-in delay-6"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/gdutils"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://ko-fi.com/gdutils" class="bounce-in delay-7"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/Jouca?tab=repositories&sort=stargazers">
+<p align="center" class="fade-in-up delay-8">
+  <a href="https://github.com/Jouca?tab=repositories&sort=stargazers" class="slide-in-left delay-9">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jouca?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
+  <a href="https://github.com/DenverCoder1?tab=followers" class="fade-in delay-10">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jouca?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Jouca/Simple-View-Counter">
+  <a href="https://github.com/Jouca/Simple-View-Counter" class="slide-in-right delay-9">
     <img alt="views" title="GitHub profile views" src="https://clarifygdps.com/github_stats"/></a>
 </p>
 
-<details> 
+<details class="fade-in delay-1"> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3 class="slide-in-left delay-2">👨‍💻 Programming and Markup Languages</h3>
 
-  <p align="center">
+  <p align="center" class="fade-in-up delay-3">
     <a href="https://github.com/search?q=user%3AJouca+language%3Aassembly"><img alt="Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AJouca+language%3Abash"><img alt="Bash" src="https://custom-icon-badges.demolab.com/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AJouca+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
