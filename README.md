@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jouca&duration=4000&pause=2000&color=F718A4&center=true&vCenter=true&width=509&lines=Fullstack%2C+Mobile+%26+Game+Developer;Apprentice+at+LISSI;Master+degree+student+at+UPEC;%22It's+all+talk+until+the+code+runs.%22+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jouca&duration=4000&pause=2000&color=F718A4&center=true&vCenter=true&width=509&lines=Fullstack%2C+Mobile+%26+Game+Developer;Apprentice+at+LISSI+laboratory;Master+degree+student+at+UPEC;%22It's+all+talk+until+the+code+runs.%22+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
