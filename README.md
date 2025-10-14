@@ -171,7 +171,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#143](https://github.com/SlamaFR/BULB/pull/143) in [SlamaFR/BULB](https://github.com/SlamaFR/BULB)
+1. 💪 Opened PR [#143](undefined) in [SlamaFR/BULB](https://github.com/SlamaFR/BULB)
 2. 🚀 Published release [v1.3.0](https://github.com/Jouca/BadgesAPI/releases/tag/v1.3.0) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
 3. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3243252076) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
 4. 🗣 Commented on [#308](https://github.com/PhlexPlexico/G5API/issues/308#issuecomment-3242823082) in [PhlexPlexico/G5API](https://github.com/PhlexPlexico/G5API)
