@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1.  Unlabeled issue [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
-2.  Labeled issue [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
-3.  Labeled issue [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
-4. ❗ Opened issue [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
-5. 💪 Opened PR [#143](undefined) in [SlamaFR/BULB](https://github.com/SlamaFR/BULB)
+1. 🔒 Closed issue [#58](https://github.com/Jouca/GDUtils-Geode/issues/58) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+2. 🗣 Commented on [#61](https://github.com/Jouca/GDUtils-Geode/pull/61#issuecomment-3536019686) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+3.  Unlabeled issue [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
+4.  Labeled issue [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
+5.  Labeled issue [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
   <!--END_SECTION:activity-->
 </details>
