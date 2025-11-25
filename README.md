@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1190](https://github.com/motis-project/motis/issues/1190) in [motis-project/motis](https://github.com/motis-project/motis)
-2. 🗣 Commented on [#1190](https://github.com/motis-project/motis/issues/1190#issuecomment-3573333133) in [motis-project/motis](https://github.com/motis-project/motis)
-3. 🚀 Published release [v1.3.1](https://github.com/Jouca/BadgesAPI/releases/tag/v1.3.1) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
-4. ❗ Opened issue [#1190](https://github.com/motis-project/motis/issues/1190) in [motis-project/motis](https://github.com/motis-project/motis)
-5. 🔒 Closed issue [#58](https://github.com/Jouca/GDUtils-Geode/issues/58) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+1. 🗣 Commented on [#1190](https://github.com/motis-project/motis/issues/1190#issuecomment-3574612602) in [motis-project/motis](https://github.com/motis-project/motis)
+2. 💪 Opened PR [#1699](undefined) in [public-transport/transitous](https://github.com/public-transport/transitous)
+3. 🔒 Closed issue [#1190](https://github.com/motis-project/motis/issues/1190) in [motis-project/motis](https://github.com/motis-project/motis)
+4. 🗣 Commented on [#1190](https://github.com/motis-project/motis/issues/1190#issuecomment-3573333133) in [motis-project/motis](https://github.com/motis-project/motis)
+5. 🚀 Published release [v1.3.1](https://github.com/Jouca/BadgesAPI/releases/tag/v1.3.1) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
   <!--END_SECTION:activity-->
 </details>
