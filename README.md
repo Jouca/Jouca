@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
-2. 🗣 Commented on [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16#issuecomment-3575401042) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
-3. 🗣 Commented on [#1190](https://github.com/motis-project/motis/issues/1190#issuecomment-3575363575) in [motis-project/motis](https://github.com/motis-project/motis)
-4. 🗣 Commented on [#1699](https://github.com/public-transport/transitous/pull/1699#issuecomment-3575336627) in [public-transport/transitous](https://github.com/public-transport/transitous)
-5. 🗣 Commented on [#1190](https://github.com/motis-project/motis/issues/1190#issuecomment-3574612602) in [motis-project/motis](https://github.com/motis-project/motis)
+1. ❌ Closed PR [#12](undefined) in [HexaTransit/Assets](https://github.com/HexaTransit/Assets)
+2. 🔒 Closed issue [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
+3. 🗣 Commented on [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16#issuecomment-3575401042) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
+4. 🗣 Commented on [#1190](https://github.com/motis-project/motis/issues/1190#issuecomment-3575363575) in [motis-project/motis](https://github.com/motis-project/motis)
+5. 🗣 Commented on [#1699](https://github.com/public-transport/transitous/pull/1699#issuecomment-3575336627) in [public-transport/transitous](https://github.com/public-transport/transitous)
   <!--END_SECTION:activity-->
 </details>
