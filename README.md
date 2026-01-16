@@ -171,9 +171,9 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Jouca/BadgesAPI/issues/6#issuecomment-3761349347) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
-2. 🗣 Commented on [#31](https://github.com/Jouca/IDFM_GTFS-RT/issues/31#issuecomment-3694169003) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
-3. 🗣 Commented on [#16](https://github.com/Jouca/IDFM_GTFS-RT/issues/16#issuecomment-3575401042) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
+1. 🔒 Closed issue [#6](https://github.com/Jouca/BadgesAPI/issues/6) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
+2. 🗣 Commented on [#6](https://github.com/Jouca/BadgesAPI/issues/6#issuecomment-3761349347) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
+3. 🗣 Commented on [#31](https://github.com/Jouca/IDFM_GTFS-RT/issues/31#issuecomment-3694169003) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
 4. 🗣 Commented on [#1190](https://github.com/motis-project/motis/issues/1190#issuecomment-3575363575) in [motis-project/motis](https://github.com/motis-project/motis)
 5. 🗣 Commented on [#1699](https://github.com/public-transport/transitous/pull/1699#issuecomment-3575336627) in [public-transport/transitous](https://github.com/public-transport/transitous)
   <!--END_SECTION:activity-->
