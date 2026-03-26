@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/nagix/mini-tokyo-3d/pull/39) in [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
-2. 🗣 Commented on [#39](https://github.com/nagix/mini-tokyo-3d/pull/39#issuecomment-4092980918) in [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
-3. 🗣 Commented on [#39](https://github.com/nagix/mini-tokyo-3d/pull/39#issuecomment-4084915002) in [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
-4. 💪 Opened PR [#39](https://github.com/nagix/mini-tokyo-3d/pull/39) in [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
-5. 🗣 Commented on [#11](https://github.com/HexaTransit/Datasets/pull/11#issuecomment-4077477917) in [HexaTransit/Datasets](https://github.com/HexaTransit/Datasets)
+1. 💪 Opened PR [#40](https://github.com/nagix/mini-tokyo-3d/pull/40) in [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
+2. 🎉 Merged PR [#39](https://github.com/nagix/mini-tokyo-3d/pull/39) in [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
+3. 🗣 Commented on [#39](https://github.com/nagix/mini-tokyo-3d/pull/39#issuecomment-4092980918) in [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
+4. 🗣 Commented on [#39](https://github.com/nagix/mini-tokyo-3d/pull/39#issuecomment-4084915002) in [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
+5. 💪 Opened PR [#39](https://github.com/nagix/mini-tokyo-3d/pull/39) in [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
   <!--END_SECTION:activity-->
 </details>
