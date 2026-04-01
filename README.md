@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4169249752) in [motis-project/motis](https://github.com/motis-project/motis)
-2. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4168499446) in [motis-project/motis](https://github.com/motis-project/motis)
-3. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4168455207) in [motis-project/motis](https://github.com/motis-project/motis)
-4. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4168289460) in [motis-project/motis](https://github.com/motis-project/motis)
-5. 🎉 Merged PR [#40](https://github.com/nagix/mini-tokyo-3d/pull/40) in [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
+1. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4170273592) in [motis-project/motis](https://github.com/motis-project/motis)
+2. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4169249752) in [motis-project/motis](https://github.com/motis-project/motis)
+3. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4168499446) in [motis-project/motis](https://github.com/motis-project/motis)
+4. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4168455207) in [motis-project/motis](https://github.com/motis-project/motis)
+5. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4168289460) in [motis-project/motis](https://github.com/motis-project/motis)
   <!--END_SECTION:activity-->
 </details>
