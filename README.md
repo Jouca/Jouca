@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/Jouca/IDFM_GTFS-RT/issues/46#issuecomment-4175904028) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
-2. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4170273592) in [motis-project/motis](https://github.com/motis-project/motis)
-3. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4169249752) in [motis-project/motis](https://github.com/motis-project/motis)
-4. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4168499446) in [motis-project/motis](https://github.com/motis-project/motis)
-5. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4168455207) in [motis-project/motis](https://github.com/motis-project/motis)
+1. ❗ Opened issue [#1380](https://github.com/motis-project/motis/issues/1380) in [motis-project/motis](https://github.com/motis-project/motis)
+2. 🗣 Commented on [#46](https://github.com/Jouca/IDFM_GTFS-RT/issues/46#issuecomment-4175904028) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
+3. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4170273592) in [motis-project/motis](https://github.com/motis-project/motis)
+4. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4169249752) in [motis-project/motis](https://github.com/motis-project/motis)
+5. 🗣 Commented on [#635](https://github.com/motis-project/motis/issues/635#issuecomment-4168499446) in [motis-project/motis](https://github.com/motis-project/motis)
   <!--END_SECTION:activity-->
 </details>
