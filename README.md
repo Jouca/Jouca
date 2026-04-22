@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#742](https://github.com/motis-project/motis/issues/742#issuecomment-4284971240) in [motis-project/motis](https://github.com/motis-project/motis)
-2. 🗣 Commented on [#270](https://github.com/mfdz/GTFS-Issues/issues/270#issuecomment-4276706784) in [mfdz/GTFS-Issues](https://github.com/mfdz/GTFS-Issues)
-3. 🔒 Closed issue [#46](https://github.com/Jouca/IDFM_GTFS-RT/issues/46) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
-4. 🗣 Commented on [#46](https://github.com/Jouca/IDFM_GTFS-RT/issues/46#issuecomment-4276705223) in [Jouca/IDFM_GTFS-RT](https://github.com/Jouca/IDFM_GTFS-RT)
-5. ❗ Opened issue [#1380](https://github.com/motis-project/motis/issues/1380) in [motis-project/motis](https://github.com/motis-project/motis)
+1. 🔒 Closed issue [#68](https://github.com/Jouca/GDUtils-Geode/issues/68) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+2. 🔒 Closed issue [#64](https://github.com/Jouca/GDUtils-Geode/issues/64) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+3. 🔒 Closed issue [#63](https://github.com/Jouca/GDUtils-Geode/issues/63) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+4. 🚀 Published release [v1.4.2](https://github.com/Jouca/BadgesAPI/releases/tag/v1.4.2) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
+5. 🔒 Closed issue [#70](https://github.com/Jouca/GDUtils-Geode/issues/70) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
   <!--END_SECTION:activity-->
 </details>
