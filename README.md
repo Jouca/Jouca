@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/Jouca/GDUtils-Geode/issues/60#issuecomment-4432351407) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-2. 🔒 Closed issue [#60](https://github.com/Jouca/GDUtils-Geode/issues/60) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-3. 🔒 Closed issue [#71](https://github.com/Jouca/GDUtils-Geode/issues/71) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-4. 🗣 Commented on [#71](https://github.com/Jouca/GDUtils-Geode/issues/71#issuecomment-4432341719) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-5. 🗣 Commented on [#72](https://github.com/Jouca/GDUtils-Geode/issues/72#issuecomment-4432192912) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+1. 🔒 Closed issue [#73](https://github.com/Jouca/GDUtils-Geode/issues/73) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+2. 🗣 Commented on [#60](https://github.com/Jouca/GDUtils-Geode/issues/60#issuecomment-4432351407) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+3. 🔒 Closed issue [#60](https://github.com/Jouca/GDUtils-Geode/issues/60) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+4. 🔒 Closed issue [#71](https://github.com/Jouca/GDUtils-Geode/issues/71) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+5. 🗣 Commented on [#71](https://github.com/Jouca/GDUtils-Geode/issues/71#issuecomment-4432341719) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
   <!--END_SECTION:activity-->
 </details>
