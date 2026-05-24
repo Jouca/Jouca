@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1386](https://github.com/motis-project/motis/pull/1386#issuecomment-4508884204) in [motis-project/motis](https://github.com/motis-project/motis)
-2. 🗣 Commented on [#72](https://github.com/Jouca/GDUtils-Geode/issues/72#issuecomment-4439246818) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-3. 🔒 Closed issue [#72](https://github.com/Jouca/GDUtils-Geode/issues/72) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-4. 🚀 Published release [v1.6.0-beta.4](https://github.com/Jouca/GDUtils-Geode/releases/tag/v1.6.0-beta.4) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-5. 🔒 Closed issue [#73](https://github.com/Jouca/GDUtils-Geode/issues/73) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+1. 🗣 Commented on [#1386](https://github.com/motis-project/motis/pull/1386#issuecomment-4527611954) in [motis-project/motis](https://github.com/motis-project/motis)
+2. 🗣 Commented on [#1386](https://github.com/motis-project/motis/pull/1386#issuecomment-4508884204) in [motis-project/motis](https://github.com/motis-project/motis)
+3. 🗣 Commented on [#72](https://github.com/Jouca/GDUtils-Geode/issues/72#issuecomment-4439246818) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+4. 🔒 Closed issue [#72](https://github.com/Jouca/GDUtils-Geode/issues/72) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+5. 🚀 Published release [v1.6.0-beta.4](https://github.com/Jouca/GDUtils-Geode/releases/tag/v1.6.0-beta.4) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
   <!--END_SECTION:activity-->
 </details>
