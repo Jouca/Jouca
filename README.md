@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2186](https://github.com/public-transport/transitous/pull/2186) in [public-transport/transitous](https://github.com/public-transport/transitous)
-2. 🗣 Commented on [#1386](https://github.com/motis-project/motis/pull/1386#issuecomment-4527611954) in [motis-project/motis](https://github.com/motis-project/motis)
-3. 🗣 Commented on [#1386](https://github.com/motis-project/motis/pull/1386#issuecomment-4508884204) in [motis-project/motis](https://github.com/motis-project/motis)
-4. 🗣 Commented on [#72](https://github.com/Jouca/GDUtils-Geode/issues/72#issuecomment-4439246818) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-5. 🔒 Closed issue [#72](https://github.com/Jouca/GDUtils-Geode/issues/72) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+1. 🗣 Commented on [#1386](https://github.com/motis-project/motis/pull/1386#issuecomment-4553896303) in [motis-project/motis](https://github.com/motis-project/motis)
+2. 💪 Opened PR [#2186](https://github.com/public-transport/transitous/pull/2186) in [public-transport/transitous](https://github.com/public-transport/transitous)
+3. 🗣 Commented on [#1386](https://github.com/motis-project/motis/pull/1386#issuecomment-4527611954) in [motis-project/motis](https://github.com/motis-project/motis)
+4. 🗣 Commented on [#1386](https://github.com/motis-project/motis/pull/1386#issuecomment-4508884204) in [motis-project/motis](https://github.com/motis-project/motis)
+5. 🗣 Commented on [#72](https://github.com/Jouca/GDUtils-Geode/issues/72#issuecomment-4439246818) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
   <!--END_SECTION:activity-->
 </details>
