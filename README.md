@@ -171,9 +171,9 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.0](https://github.com/Jouca/BadgesAPI/releases/tag/v1.5.0) in [Jouca/BadgesAPI](https://github.com/Jouca/BadgesAPI)
-2. 🗣 Commented on [#2194](https://github.com/public-transport/transitous/pull/2194#issuecomment-4757376425) in [public-transport/transitous](https://github.com/public-transport/transitous)
-3. 🎉 Merged PR [#2247](https://github.com/public-transport/transitous/pull/2247) in [public-transport/transitous](https://github.com/public-transport/transitous)
+1. 🚀 Published release [v1.6.0](https://github.com/Jouca/GDUtils-Geode/releases/tag/v1.6.0) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+2. 🎉 Merged PR [#75](https://github.com/Jouca/GDUtils-Geode/pull/75) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+3. 💪 Opened PR [#75](https://github.com/Jouca/GDUtils-Geode/pull/75) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
 4. 🎉 Merged PR [#1386](https://github.com/motis-project/motis/pull/1386) in [motis-project/motis](https://github.com/motis-project/motis)
 5. 🗣 Commented on [#1386](https://github.com/motis-project/motis/pull/1386#issuecomment-4725579904) in [motis-project/motis](https://github.com/motis-project/motis)
   <!--END_SECTION:activity-->
