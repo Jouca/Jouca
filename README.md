@@ -171,10 +171,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.6.0](https://github.com/Jouca/GDUtils-Geode/releases/tag/v1.6.0) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-2. 🎉 Merged PR [#75](https://github.com/Jouca/GDUtils-Geode/pull/75) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-3. 💪 Opened PR [#75](https://github.com/Jouca/GDUtils-Geode/pull/75) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
-4. 🎉 Merged PR [#1386](https://github.com/motis-project/motis/pull/1386) in [motis-project/motis](https://github.com/motis-project/motis)
-5. 🗣 Commented on [#1386](https://github.com/motis-project/motis/pull/1386#issuecomment-4725579904) in [motis-project/motis](https://github.com/motis-project/motis)
+1. 🚀 Published release [v1.6.1](https://github.com/Jouca/GDUtils-Geode/releases/tag/v1.6.1) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+2. 🎉 Merged PR [#76](https://github.com/Jouca/GDUtils-Geode/pull/76) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+3. 💪 Opened PR [#76](https://github.com/Jouca/GDUtils-Geode/pull/76) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+4. 🚀 Published release [v1.6.0](https://github.com/Jouca/GDUtils-Geode/releases/tag/v1.6.0) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
+5. 🎉 Merged PR [#75](https://github.com/Jouca/GDUtils-Geode/pull/75) in [Jouca/GDUtils-Geode](https://github.com/Jouca/GDUtils-Geode)
   <!--END_SECTION:activity-->
 </details>
